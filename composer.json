@@ -1,5 +1,5 @@
 {
-    "name": "scotteh/php-dom-wrapper",
+    "name": "wan3574489/php-dom-wrapper",
     "type": "library",
     "description": "Simple DOM wrapper to select nodes using either CSS or XPath expressions and manipulate results quickly and easily.",
     "keywords": ["dom", "wrapper", "css", "html", "parser"],
